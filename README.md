@@ -1,4 +1,4 @@
 # Circuits
-A program that displays the resistance of a circuit with set parallels, resistors, and serials.
+A program that displays the resistance of a circuit with set parallels, resistors, and serials.<br>
 This was an assignment in my Java Programming I course.<br>
-If you would like to optimize the code, go for it.<br>
+If you would like to optimize the code, go for it.
